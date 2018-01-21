@@ -8,11 +8,11 @@ int main(void)
 	
 		if((lyear%4)==0)
 		{
-			printf("%d is leapyear",lyear);
+			printf("yes",lyear);
 		}
 		else
 		{
-			printf("%d is not a leapyear",lyear);
+			printf("no",lyear);
 		}
 		
 
